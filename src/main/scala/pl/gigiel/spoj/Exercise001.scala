@@ -9,5 +9,5 @@ object Exercise001 extends App {
       fun
     }
   }
-  fun()
+  fun
 }
